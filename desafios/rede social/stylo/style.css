@@ -10,7 +10,22 @@ html, body {
     background-size: cover;
     background-attachment: fixed;
 }
+h1 {
+    text-align: center;
+}
+div {
+    text-align: left;
+    background-color: aliceblue;
+    height: 400px;
+    width: 400px;
+}
 
+img {
+    text-align: cover;
+    width: 800px;
+    margin: auto;
+    padding: auto;
+}
 main {
     height: 100vh;
     position: relative;
